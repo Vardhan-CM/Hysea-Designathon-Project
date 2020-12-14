@@ -8,7 +8,7 @@ Expected Features :
 - Student registration and job search for matching profiles
 - Faculty review of matching jobs and student profiles. Provide mentorship to students for applying to jobs on the platform.
 
-> Project was made using Adobe XD <
+> Project was made using Adobe XD 
 
 P.S : Design Centric Solution was expected, development of prototype was not mandatory
 
